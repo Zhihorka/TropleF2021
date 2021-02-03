@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TropleF2021/static/css/main.e943f94b.chunk.css",
+    "main.css": "/TropleF2021/static/css/main.43f28508.chunk.css",
     "main.js": "/TropleF2021/static/js/main.2587f0c3.chunk.js",
     "main.js.map": "/TropleF2021/static/js/main.2587f0c3.chunk.js.map",
     "runtime-main.js": "/TropleF2021/static/js/runtime-main.0b6b5428.js",
@@ -10,7 +10,7 @@
     "static/js/3.b4a012b1.chunk.js": "/TropleF2021/static/js/3.b4a012b1.chunk.js",
     "static/js/3.b4a012b1.chunk.js.map": "/TropleF2021/static/js/3.b4a012b1.chunk.js.map",
     "index.html": "/TropleF2021/index.html",
-    "static/css/main.e943f94b.chunk.css.map": "/TropleF2021/static/css/main.e943f94b.chunk.css.map",
+    "static/css/main.43f28508.chunk.css.map": "/TropleF2021/static/css/main.43f28508.chunk.css.map",
     "static/js/2.fb620146.chunk.js.LICENSE.txt": "/TropleF2021/static/js/2.fb620146.chunk.js.LICENSE.txt",
     "static/media/28Logo.6d785edd.png": "/TropleF2021/static/media/28Logo.6d785edd.png",
     "static/media/Browser1.7030fa04.jpg": "/TropleF2021/static/media/Browser1.7030fa04.jpg",
@@ -57,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b6b5428.js",
     "static/js/2.fb620146.chunk.js",
-    "static/css/main.e943f94b.chunk.css",
+    "static/css/main.43f28508.chunk.css",
     "static/js/main.2587f0c3.chunk.js"
   ]
 }
