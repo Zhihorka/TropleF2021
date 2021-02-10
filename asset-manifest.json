@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TropleF2021/static/css/main.98cae9c9.chunk.css",
-    "main.js": "/TropleF2021/static/js/main.4937914f.chunk.js",
-    "main.js.map": "/TropleF2021/static/js/main.4937914f.chunk.js.map",
-    "runtime-main.js": "/TropleF2021/static/js/runtime-main.0b6b5428.js",
-    "runtime-main.js.map": "/TropleF2021/static/js/runtime-main.0b6b5428.js.map",
-    "static/js/2.4387d60b.chunk.js": "/TropleF2021/static/js/2.4387d60b.chunk.js",
-    "static/js/2.4387d60b.chunk.js.map": "/TropleF2021/static/js/2.4387d60b.chunk.js.map",
-    "static/js/3.b4a012b1.chunk.js": "/TropleF2021/static/js/3.b4a012b1.chunk.js",
-    "static/js/3.b4a012b1.chunk.js.map": "/TropleF2021/static/js/3.b4a012b1.chunk.js.map",
+    "main.css": "/TropleF2021/static/css/main.3b079332.chunk.css",
+    "main.js": "/TropleF2021/static/js/main.6b19037b.chunk.js",
+    "main.js.map": "/TropleF2021/static/js/main.6b19037b.chunk.js.map",
+    "runtime-main.js": "/TropleF2021/static/js/runtime-main.8606767d.js",
+    "runtime-main.js.map": "/TropleF2021/static/js/runtime-main.8606767d.js.map",
+    "static/js/2.a9772bab.chunk.js": "/TropleF2021/static/js/2.a9772bab.chunk.js",
+    "static/js/2.a9772bab.chunk.js.map": "/TropleF2021/static/js/2.a9772bab.chunk.js.map",
+    "static/js/3.66728a51.chunk.js": "/TropleF2021/static/js/3.66728a51.chunk.js",
+    "static/js/3.66728a51.chunk.js.map": "/TropleF2021/static/js/3.66728a51.chunk.js.map",
     "index.html": "/TropleF2021/index.html",
-    "static/css/main.98cae9c9.chunk.css.map": "/TropleF2021/static/css/main.98cae9c9.chunk.css.map",
-    "static/js/2.4387d60b.chunk.js.LICENSE.txt": "/TropleF2021/static/js/2.4387d60b.chunk.js.LICENSE.txt",
+    "static/css/main.3b079332.chunk.css.map": "/TropleF2021/static/css/main.3b079332.chunk.css.map",
+    "static/js/2.a9772bab.chunk.js.LICENSE.txt": "/TropleF2021/static/js/2.a9772bab.chunk.js.LICENSE.txt",
     "static/media/28Logo.6d785edd.png": "/TropleF2021/static/media/28Logo.6d785edd.png",
     "static/media/Browser1.7030fa04.jpg": "/TropleF2021/static/media/Browser1.7030fa04.jpg",
     "static/media/Browser10.5b80d711.jpg": "/TropleF2021/static/media/Browser10.5b80d711.jpg",
@@ -38,6 +38,7 @@
     "static/media/Gallery5.e8ef40c3.jpg": "/TropleF2021/static/media/Gallery5.e8ef40c3.jpg",
     "static/media/Gallery6.f394b270.jpg": "/TropleF2021/static/media/Gallery6.f394b270.jpg",
     "static/media/Gallery7.07796448.jpg": "/TropleF2021/static/media/Gallery7.07796448.jpg",
+    "static/media/GreenPentagon.993fcc12.png": "/TropleF2021/static/media/GreenPentagon.993fcc12.png",
     "static/media/HomePhoto.0e32892c.jpg": "/TropleF2021/static/media/HomePhoto.0e32892c.jpg",
     "static/media/HomePhoto2.37eadc93.jpg": "/TropleF2021/static/media/HomePhoto2.37eadc93.jpg",
     "static/media/HomePhoto3.6a8de70c.jpg": "/TropleF2021/static/media/HomePhoto3.6a8de70c.jpg",
@@ -46,9 +47,11 @@
     "static/media/IviLogo.b9b7f701.png": "/TropleF2021/static/media/IviLogo.b9b7f701.png",
     "static/media/LightSquare.cb47a6f3.png": "/TropleF2021/static/media/LightSquare.cb47a6f3.png",
     "static/media/MosigraLogo.d53ce87e.png": "/TropleF2021/static/media/MosigraLogo.d53ce87e.png",
+    "static/media/PinkPentagon.3f1199e3.png": "/TropleF2021/static/media/PinkPentagon.3f1199e3.png",
     "static/media/PurpleCircle.e2b8a1cc.png": "/TropleF2021/static/media/PurpleCircle.e2b8a1cc.png",
     "static/media/PurpleHexagon.25bb5f8e.png": "/TropleF2021/static/media/PurpleHexagon.25bb5f8e.png",
     "static/media/RedBullLogo.73826692.png": "/TropleF2021/static/media/RedBullLogo.73826692.png",
+    "static/media/RedOentagon.44b1e42e.png": "/TropleF2021/static/media/RedOentagon.44b1e42e.png",
     "static/media/SkyengLogo.fc1fb0dc.png": "/TropleF2021/static/media/SkyengLogo.fc1fb0dc.png",
     "static/media/TikTokLogo.7f433914.png": "/TropleF2021/static/media/TikTokLogo.7f433914.png",
     "static/media/VkLogo.14cbae8e.png": "/TropleF2021/static/media/VkLogo.14cbae8e.png",
@@ -58,9 +61,9 @@
     "static/media/YellowPentagon.841be5c0.png": "/TropleF2021/static/media/YellowPentagon.841be5c0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b6b5428.js",
-    "static/js/2.4387d60b.chunk.js",
-    "static/css/main.98cae9c9.chunk.css",
-    "static/js/main.4937914f.chunk.js"
+    "static/js/runtime-main.8606767d.js",
+    "static/js/2.a9772bab.chunk.js",
+    "static/css/main.3b079332.chunk.css",
+    "static/js/main.6b19037b.chunk.js"
   ]
 }
