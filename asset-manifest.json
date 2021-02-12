@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TropleF2021/static/css/main.3b079332.chunk.css",
-    "main.js": "/TropleF2021/static/js/main.6b19037b.chunk.js",
-    "main.js.map": "/TropleF2021/static/js/main.6b19037b.chunk.js.map",
+    "main.css": "/TropleF2021/static/css/main.c2d83fb4.chunk.css",
+    "main.js": "/TropleF2021/static/js/main.b9841c68.chunk.js",
+    "main.js.map": "/TropleF2021/static/js/main.b9841c68.chunk.js.map",
     "runtime-main.js": "/TropleF2021/static/js/runtime-main.8606767d.js",
     "runtime-main.js.map": "/TropleF2021/static/js/runtime-main.8606767d.js.map",
     "static/js/2.a9772bab.chunk.js": "/TropleF2021/static/js/2.a9772bab.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.66728a51.chunk.js": "/TropleF2021/static/js/3.66728a51.chunk.js",
     "static/js/3.66728a51.chunk.js.map": "/TropleF2021/static/js/3.66728a51.chunk.js.map",
     "index.html": "/TropleF2021/index.html",
-    "static/css/main.3b079332.chunk.css.map": "/TropleF2021/static/css/main.3b079332.chunk.css.map",
+    "static/css/main.c2d83fb4.chunk.css.map": "/TropleF2021/static/css/main.c2d83fb4.chunk.css.map",
     "static/js/2.a9772bab.chunk.js.LICENSE.txt": "/TropleF2021/static/js/2.a9772bab.chunk.js.LICENSE.txt",
     "static/media/28Logo.6d785edd.png": "/TropleF2021/static/media/28Logo.6d785edd.png",
     "static/media/Browser1.7030fa04.jpg": "/TropleF2021/static/media/Browser1.7030fa04.jpg",
@@ -38,6 +38,7 @@
     "static/media/Gallery5.e8ef40c3.jpg": "/TropleF2021/static/media/Gallery5.e8ef40c3.jpg",
     "static/media/Gallery6.f394b270.jpg": "/TropleF2021/static/media/Gallery6.f394b270.jpg",
     "static/media/Gallery7.07796448.jpg": "/TropleF2021/static/media/Gallery7.07796448.jpg",
+    "static/media/GrayPentagon.8d47a74b.png": "/TropleF2021/static/media/GrayPentagon.8d47a74b.png",
     "static/media/GreenPentagon.993fcc12.png": "/TropleF2021/static/media/GreenPentagon.993fcc12.png",
     "static/media/HomePhoto.0e32892c.jpg": "/TropleF2021/static/media/HomePhoto.0e32892c.jpg",
     "static/media/HomePhoto2.37eadc93.jpg": "/TropleF2021/static/media/HomePhoto2.37eadc93.jpg",
@@ -63,7 +64,7 @@
   "entrypoints": [
     "static/js/runtime-main.8606767d.js",
     "static/js/2.a9772bab.chunk.js",
-    "static/css/main.3b079332.chunk.css",
-    "static/js/main.6b19037b.chunk.js"
+    "static/css/main.c2d83fb4.chunk.css",
+    "static/js/main.b9841c68.chunk.js"
   ]
 }
