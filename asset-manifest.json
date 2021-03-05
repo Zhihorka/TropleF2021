@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TropleF2021/static/css/main.951ab447.chunk.css",
-    "main.js": "/TropleF2021/static/js/main.0f00148a.chunk.js",
-    "main.js.map": "/TropleF2021/static/js/main.0f00148a.chunk.js.map",
-    "runtime-main.js": "/TropleF2021/static/js/runtime-main.28acb38f.js",
-    "runtime-main.js.map": "/TropleF2021/static/js/runtime-main.28acb38f.js.map",
-    "static/js/2.207a2329.chunk.js": "/TropleF2021/static/js/2.207a2329.chunk.js",
-    "static/js/2.207a2329.chunk.js.map": "/TropleF2021/static/js/2.207a2329.chunk.js.map",
-    "static/js/3.4610698c.chunk.js": "/TropleF2021/static/js/3.4610698c.chunk.js",
-    "static/js/3.4610698c.chunk.js.map": "/TropleF2021/static/js/3.4610698c.chunk.js.map",
+    "main.css": "/TropleF2021/static/css/main.c8a2c73b.chunk.css",
+    "main.js": "/TropleF2021/static/js/main.0a710c18.chunk.js",
+    "main.js.map": "/TropleF2021/static/js/main.0a710c18.chunk.js.map",
+    "runtime-main.js": "/TropleF2021/static/js/runtime-main.45082b21.js",
+    "runtime-main.js.map": "/TropleF2021/static/js/runtime-main.45082b21.js.map",
+    "static/js/2.57c319fc.chunk.js": "/TropleF2021/static/js/2.57c319fc.chunk.js",
+    "static/js/2.57c319fc.chunk.js.map": "/TropleF2021/static/js/2.57c319fc.chunk.js.map",
+    "static/js/3.9d41d314.chunk.js": "/TropleF2021/static/js/3.9d41d314.chunk.js",
+    "static/js/3.9d41d314.chunk.js.map": "/TropleF2021/static/js/3.9d41d314.chunk.js.map",
     "index.html": "/TropleF2021/index.html",
-    "static/css/main.951ab447.chunk.css.map": "/TropleF2021/static/css/main.951ab447.chunk.css.map",
-    "static/js/2.207a2329.chunk.js.LICENSE.txt": "/TropleF2021/static/js/2.207a2329.chunk.js.LICENSE.txt",
+    "static/css/main.c8a2c73b.chunk.css.map": "/TropleF2021/static/css/main.c8a2c73b.chunk.css.map",
+    "static/js/2.57c319fc.chunk.js.LICENSE.txt": "/TropleF2021/static/js/2.57c319fc.chunk.js.LICENSE.txt",
     "static/media/28Logo.6d785edd.png": "/TropleF2021/static/media/28Logo.6d785edd.png",
     "static/media/Browser1.7030fa04.jpg": "/TropleF2021/static/media/Browser1.7030fa04.jpg",
     "static/media/Browser10.5b80d711.jpg": "/TropleF2021/static/media/Browser10.5b80d711.jpg",
@@ -62,9 +62,9 @@
     "static/media/YellowPentagon.841be5c0.png": "/TropleF2021/static/media/YellowPentagon.841be5c0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.28acb38f.js",
-    "static/js/2.207a2329.chunk.js",
-    "static/css/main.951ab447.chunk.css",
-    "static/js/main.0f00148a.chunk.js"
+    "static/js/runtime-main.45082b21.js",
+    "static/js/2.57c319fc.chunk.js",
+    "static/css/main.c8a2c73b.chunk.css",
+    "static/js/main.0a710c18.chunk.js"
   ]
 }
